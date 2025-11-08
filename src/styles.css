@@ -19,7 +19,8 @@
   }
 }
 
-.fadein {
+/* Creamos la utilidad de Tailwind */
+@utility animate-fadein {
   animation: fadein 0.3s ease-in-out;
 }
 body {
